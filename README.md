@@ -1,1 +1,3 @@
-# 5588_00_intro_repo
+# Demonstration of HTML, CSL, and Javascript
+
+This is for GEOG5588
