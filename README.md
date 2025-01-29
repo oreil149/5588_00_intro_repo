@@ -1,3 +1,9 @@
-# Demonstration of HTML, CSL, and Javascript
+# Demonstration of HTML, CSS, and Javascript
 
 This is for GEOG5588
+
+## Subheading
+### More Subheading
+**Bold**
+*Italic*
+
